@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ezrablackfish2
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning AAU
+- 🌱 also I'm learning on ALX software engineering program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ezrayeneneh1992@gmail.com
 
