@@ -1,11 +1,3 @@
 - 👋 Hi, I’m @ezrablackfish2
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning AAU
-- 🌱 also I'm learning on ALX software engineering program
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ezrayeneneh1992@gmail.com
+A versatile professional with expertise spanning full-stack blockchain development, UI/UXdesign, and high-end WordPress and Shopify development. With a deep technical backgroundand over 5 years of experience in digital realms, I offer comprehensive solutions tailored to diverseclient needs. In blockchain, I specialize in developing various decentralized applications (dapps)across multiple networks, including yield farming, staking, lending, NFTs, tokenomics, and more.My proficiency extends to web application development, ensuring seamless user experiencesthrough React.js and Node.js. As a seasoned UI/UX designer, I craft visually compelling interfaceswith a focus on user-centric design principles. In WordPress, I excel in website development,theme customization, and optimization, while also adept in utilizing various page builders andthemes. Additionally, my prowess in Shopify encompasses store design, product listings, virtualassistance, and dropshipping setup. Committed to excellence, I prioritize client satisfactionthrough timely delivery and meticulous attention to detail, backed by outstanding communicationand problem-solving skills.
 
-<!---
-ezrablackfish2/ezrablackfish2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
