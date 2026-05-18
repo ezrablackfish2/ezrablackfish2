@@ -4,11 +4,13 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=EZRA%20YENENEH&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Senior%20Full%20Stack%20Engineer%20%7C%20AI%20%2F%20ML%20%26%20SaaS%20Developer&descSize=18&descAlignY=60)
+# ⚡ EZRA YENENEH ⚡
 
-![Typing](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=27&duration=2300&pause=650&color=00D4FF&center=true&vCenter=true&width=1000&height=70&lines=Senior+Full+Stack+Engineer;AI+%2F+ML+%26+SaaS+Developer;AI+Automation+Engineer;Backend+Systems+Architect;SaaS+Product+Builder;Clean+Architecture+%2B+Scalable+Systems;Production-Ready+Software+Engineer)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=2400&pause=600&color=00D4FF&center=true&vCenter=true&width=1000&height=80&lines=Senior+Full+Stack+Engineer;AI+%2F+ML+%26+SaaS+Developer;AI+Automation+Engineer;Backend+Systems+Architect;SaaS+Product+Builder;Production-Ready+Software+Engineer" alt="Main Typing Animation" />
 
-![Sub Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=980&height=45&lines=Frontend+precision.+Backend+power.+AI+automation.+Real+product+delivery.;From+idea+to+MVP.+From+MVP+to+production.+From+production+to+scale.;I+build+software+that+looks+sharp%2C+ships+fast%2C+and+scales+cleanly.)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=1000&height=50&lines=Frontend+precision.+Backend+power.+AI+automation.+Real+product+delivery.;From+idea+to+MVP.+From+MVP+to+production.+From+production+to+scale.;I+build+software+that+looks+sharp%2C+ships+fast%2C+and+scales+cleanly." alt="Sub Typing Animation" />
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-ezrablackfish2-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)](https://github.com/ezrablackfish2)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Ezra%20Yeneneh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A)](https://www.linkedin.com/in/ezra-yeneneh-a07203260/)
@@ -19,7 +21,9 @@
 [![LeetCode](https://img.shields.io/badge/LEETCODE-ezrablackfish-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=020617)](https://leetcode.com/u/ezrablackfish/)
 ![Profile Views](https://komarev.com/ghpvc/?username=ezrablackfish2&label=PROFILE%20VIEWS&color=00D4FF&style=for-the-badge)
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient)
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=16&duration=1800&pause=300&color=00FFB3&center=true&vCenter=true&width=1000&height=40&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━;████████████████████████████████████████████;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Animated Divider" />
 
 </div>
 
@@ -50,7 +54,7 @@
 
 > Build clean, scalable, production-ready systems that combine strong engineering, sharp UI, backend depth, and intelligent AI automation.
 
-![Mission](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=700&color=00FFB3&center=true&vCenter=true&width=420&height=180&lines=Full+Stack+Engineering;SaaS+Architecture;AI+Automation;Backend+Systems;Machine+Learning;Production+Deployment;Clean+Code;Product+Thinking)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2200&pause=700&color=00FFB3&center=true&vCenter=true&width=420&height=180&lines=Full+Stack+Engineering;SaaS+Architecture;AI+Automation;Backend+Systems;Machine+Learning;Production+Deployment;Clean+Code;Product+Thinking" alt="Mission Typing" />
 
 </td>
 </tr>
@@ -154,7 +158,7 @@ APIs, microservices, queues, databases, background jobs, performance optimizatio
 
 <div align="center">
 
-![Product Engineering](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2300&pause=700&color=7C3AED&center=true&vCenter=true&width=950&height=55&lines=Idea+%E2%86%92+Architecture+%E2%86%92+Implementation+%E2%86%92+Launch+%E2%86%92+Scale;Design+the+system.+Build+the+product.+Ship+the+experience.;Clean+UI.+Strong+API.+Reliable+Database.+Real+Deployment.)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2300&pause=700&color=7C3AED&center=true&vCenter=true&width=950&height=55&lines=Idea+%E2%86%92+Architecture+%E2%86%92+Implementation+%E2%86%92+Launch+%E2%86%92+Scale;Design+the+system.+Build+the+product.+Ship+the+experience.;Clean+UI.+Strong+API.+Reliable+Database.+Real+Deployment." alt="Product Engineering" />
 
 </div>
 
@@ -175,7 +179,7 @@ APIs, microservices, queues, databases, background jobs, performance optimizatio
 
 [![LeetCode](https://img.shields.io/badge/LEETCODE-EZRABLACKFISH-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=020617)](https://leetcode.com/u/ezrablackfish/)
 
-![DSA](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=650&color=FFA116&center=true&vCenter=true&width=850&height=50&lines=Data+Structures+%26+Algorithms;Dynamic+Programming;Graph+Algorithms;Segment+Trees;Game+Theory;Problem+Solving;Optimization+Mindset)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=650&color=FFA116&center=true&vCenter=true&width=850&height=50&lines=Data+Structures+%26+Algorithms;Dynamic+Programming;Graph+Algorithms;Segment+Trees;Game+Theory;Problem+Solving;Optimization+Mindset" alt="DSA Typing" />
 
 </div>
 
@@ -431,7 +435,7 @@ APIs, microservices, queues, databases, background jobs, performance optimizatio
 
 [![Repositories](https://img.shields.io/badge/EXPLORE-REPOSITORIES-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=020617)](https://github.com/ezrablackfish2?tab=repositories)
 
-![Repo Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2300&pause=700&color=A78BFA&center=true&vCenter=true&width=850&height=45&lines=Full-stack+systems;SaaS+projects;AI-powered+apps;Backend+architectures;Production-ready+repositories)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2300&pause=700&color=A78BFA&center=true&vCenter=true&width=850&height=45&lines=Full-stack+systems;SaaS+projects;AI-powered+apps;Backend+architectures;Production-ready+repositories" alt="Repository Animation" />
 
 </div>
 
@@ -443,7 +447,7 @@ APIs, microservices, queues, databases, background jobs, performance optimizatio
 
 [![Portfolio](https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617)](https://ezra-yeneneh.vercel.app)
 
-![Portfolio Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2300&pause=700&color=00FFB3&center=true&vCenter=true&width=850&height=50&lines=Explore+my+work;See+my+engineering+style;Check+my+projects;Let%27s+build+something+powerful)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2300&pause=700&color=00FFB3&center=true&vCenter=true&width=850&height=50&lines=Explore+my+work;See+my+engineering+style;Check+my+projects;Let%27s+build+something+powerful" alt="Portfolio Animation" />
 
 </div>
 
@@ -461,8 +465,12 @@ APIs, microservices, queues, databases, background jobs, performance optimizatio
 
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW%20ME-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=020617)](https://github.com/ezrablackfish2)
 
-![Final](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=950&height=70&lines=Thanks+for+visiting+my+profile.;I+build+systems.+I+ship+products.+I+keep+improving.;Let%27s+turn+ideas+into+real+software.)
+<br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=210&section=footer&color=gradient&animation=fadeIn)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=950&height=70&lines=Thanks+for+visiting+my+profile.;I+build+systems.+I+ship+products.+I+keep+improving.;Let%27s+turn+ideas+into+real+software." alt="Final Typing" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=16&duration=1800&pause=300&color=7C3AED&center=true&vCenter=true&width=1000&height=45&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━;████████████████████████████████████████████;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="Footer Divider" />
 
 </div>
