@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Ezra Yeneneh Hero](https://capsule-render.vercel.app/api?type=waving&height=330&color=0:020617,20:0F172A,45:1D4ED8,70:7C3AED,100:00D4FF&text=EZRA%20YENENEH&fontSize=66&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Senior%20Full%20Stack%20Engineer%20%E2%80%A2%20AI%20%2F%20ML%20%26%20SaaS%20Developer&descSize=18&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=EZRA%20YENENEH&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Senior%20Full%20Stack%20Engineer%20%7C%20AI%20%2F%20ML%20%26%20SaaS%20Developer&descSize=18&descAlignY=60)
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=27&duration=2300&pause=650&color=00D4FF&center=true&vCenter=true&width=1000&height=70&lines=Senior+Full+Stack+Engineer;AI+%2F+ML+%26+SaaS+Developer;AI+Automation+Engineer;Backend+Systems+Architect;SaaS+Product+Builder;Clean+Architecture+%2B+Scalable+Systems;Production-Ready+Software+Engineer)
 
@@ -19,7 +19,7 @@
 [![LeetCode](https://img.shields.io/badge/LEETCODE-ezrablackfish-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=020617)](https://leetcode.com/u/ezrablackfish/)
 ![Profile Views](https://komarev.com/ghpvc/?username=ezrablackfish2&label=PROFILE%20VIEWS&color=00D4FF&style=for-the-badge)
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00D4FF,35:7C3AED,70:2563EB,100:00FFB3)
+![Divider](https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient)
 
 </div>
 
@@ -68,7 +68,7 @@
 
 ![SaaS](https://img.shields.io/badge/SaaS%20Platforms-020617?style=for-the-badge&logo=vercel&logoColor=00D4FF)
 
-Production-ready SaaS apps, dashboards, admin panels, auth, billing-ready architecture, and scalable product foundations.
+Production-ready SaaS apps, dashboards, admin panels, authentication, billing-ready architecture, and scalable product foundations.
 
 </td>
 <td align="center" width="25%">
@@ -413,49 +413,15 @@ APIs, microservices, queues, databases, background jobs, performance optimizatio
 
 # 🖥️ Developer Console
 
-```bash
-ezra@github:~$ whoami
-Senior Full Stack Engineer
-AI / ML & SaaS Developer
-AI Automation Engineer
-Backend Systems Builder
-Product-Focused Software Engineer
-```
-
-```bash
-ezra@github:~$ current_focus
-Building scalable SaaS platforms
-Designing backend systems
-Integrating AI into real products
-Automating business workflows
-Shipping clean production software
-```
-
-```bash
-ezra@github:~$ stack --core
-React
-Next.js
-TypeScript
-Node.js
-NestJS
-Python
-Django
-FastAPI
-PostgreSQL
-MongoDB
-Firebase
-Redis
-Docker
-AWS
-GCP
-```
-
-```bash
-ezra@github:~$ philosophy
-"Build software that is clean enough to maintain,
-fast enough to ship,
-and strong enough to scale."
-```
+| Command | Output |
+|---|---|
+| `whoami` | Senior Full Stack Engineer, AI / ML & SaaS Developer, AI Automation Engineer |
+| `current_focus` | SaaS platforms, backend systems, AI products, automation workflows |
+| `stack --frontend` | React, Next.js, TypeScript, Tailwind CSS, Redux |
+| `stack --backend` | Node.js, NestJS, Python, Django, FastAPI |
+| `stack --database` | PostgreSQL, MongoDB, Firebase, Redis |
+| `stack --cloud` | AWS, GCP, Docker |
+| `philosophy` | Build software that is clean enough to maintain, fast enough to ship, and strong enough to scale. |
 
 ---
 
@@ -497,6 +463,6 @@ and strong enough to scale."
 
 ![Final](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2600&pause=900&color=00D4FF&center=true&vCenter=true&width=950&height=70&lines=Thanks+for+visiting+my+profile.;I+build+systems.+I+ship+products.+I+keep+improving.;Let%27s+turn+ideas+into+real+software.)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=210&section=footer&color=0:00D4FF,40:2563EB,70:7C3AED,100:020617&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=210&section=footer&color=gradient&animation=fadeIn)
 
 </div>
