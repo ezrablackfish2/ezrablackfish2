@@ -2,6 +2,7 @@
 
 <div align="center">
 
+### ✨ السلام عليكم ورحمة الله وبركاته ✨
 
 # Hi 👋 I'm Ezra Yeneneh
 
